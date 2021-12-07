@@ -1,7 +1,7 @@
 def product(a, b):
     return a * b
 
-"""def test_product():
+"""def test_product():"
     assert product(2, 4) == 8"""
 
 if __name__ == '__main__':
